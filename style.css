@@ -685,6 +685,10 @@ body {
 }
 
 @media (max-width: 40rem) {
+    
+    body{
+        min-width: fit-content
+    }
 
     .primary-header {
         display: grid;
