@@ -682,10 +682,6 @@ body {
 
 @media (max-width: 40rem) {
 
-    body {
-        min-width: fit-content;
-    }
-
     .primary-header {
         display: grid;
 
@@ -708,7 +704,7 @@ body {
         min-height: 100vh;
         align-items: left;
         left: 0;
-        margin-bottom: 5rem;
+        margin-bottom: 7rem;
 
     }
 
@@ -1028,14 +1024,6 @@ body {
 
 }
 
-
-.mercury{
-    background-color: var(--clr-mars)
-}
-
-.venus {
-    background-color: var(--clr-neptune);
-}
 
 
 
