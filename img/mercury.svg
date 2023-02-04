@@ -1,0 +1,29 @@
+<svg width="298" height="298" viewBox="0 0 298 298" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_0_12771)">
+<circle cx="149" cy="145" r="145" fill="#DEF4FC"/>
+<mask id="mask0_0_12771" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="4" y="0" width="290" height="290">
+<circle cx="149" cy="145" r="145" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_12771)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M261 25C261 18.3726 255.627 13 249 13H191C184.373 13 179 18.3726 179 25C179 31.6274 184.373 37 191 37H249C255.627 37 261 31.6274 261 25ZM77 133C83.6274 133 89 138.373 89 145C89 151.627 83.6274 157 77 157H74C67.3726 157 62 162.373 62 169C62 175.627 67.3726 181 74 181H198C204.627 181 210 175.627 210 169C210 162.373 204.627 157 198 157H146L145.999 156.99C139.604 156.727 134.5 151.46 134.5 145C134.5 138.54 139.604 133.273 145.999 133.01L146 133H148C154.627 133 160 127.627 160 121C160 114.373 154.627 109 148 109H103L103 108.99C96.6047 108.728 91.5 103.46 91.5 97C91.5 90.5399 96.6047 85.2721 103 85.0102L103 85H123C129.627 85 135 79.6274 135 73C135 66.3726 129.627 61 123 61H50C43.3726 61 38 66.3726 38 73C38 79.6274 43.3726 85 50 85H55C61.6274 85 67 90.3726 67 97C67 103.627 61.6274 109 55 109H6C-0.627417 109 -6 114.373 -6 121C-6 127.627 -0.627417 133 6 133H77ZM134 205C140.627 205 146 210.373 146 217C146 223.627 140.627 229 134 229C127.373 229 122 223.627 122 217C122 210.373 127.373 205 134 205ZM256 217C256 210.373 250.627 205 244 205H182C175.373 205 170 210.373 170 217C170 223.627 175.373 229 182 229H244C250.627 229 256 223.627 256 217ZM170 265C170 258.373 164.627 253 158 253H138C131.373 253 126 258.373 126 265C126 271.627 131.373 277 138 277H158C164.627 277 170 271.627 170 265ZM249 157C255.627 157 261 162.373 261 169C261 175.627 255.627 181 249 181C242.373 181 237 175.627 237 169C237 162.373 242.373 157 249 157ZM38 169C38 162.373 32.6274 157 26 157H6C-0.627417 157 -6 162.373 -6 169C-6 175.627 -0.627417 181 6 181H26C32.6274 181 38 175.627 38 169ZM225 61C231.627 61 237 66.3726 237 73C237 79.6274 231.627 85 225 85H205C198.373 85 193 79.6274 193 73C193 66.3726 198.373 61 205 61H225Z" fill="#B1D5E2"/>
+</g>
+<mask id="mask1_0_12771" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="4" y="0" width="290" height="290">
+<circle cx="149" cy="145" r="145" fill="white"/>
+</mask>
+<g mask="url(#mask1_0_12771)">
+<rect opacity="0.0775757" x="150" width="145" height="290" fill="black"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_12771" x="0" y="0" width="298" height="298" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_12771"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_12771" result="shape"/>
+</filter>
+</defs>
+</svg>
